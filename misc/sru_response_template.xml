@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sru:searchRetrieveResponse xmlns:overheidwetgeving="http://standaarden.overheid.nl/wetgeving/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cd="http://standaarden.overheid.nl/cup/data" xmlns:sru="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:gzd="http://standaarden.overheid.nl/sru" xmlns:diag="http://docs.oasis-open.org/ns/search-ws/diagnostic" xmlns:facet="http://docs.oasis-open.org/ns/search-ws/facetedResults" xmlns:c="http://standaarden.overheid.nl/collectie/">
+	<sru:version>2.0</sru:version>
+	<sru:numberOfRecords>300</sru:numberOfRecords>
+	<sru:records>
+		<!-- records here -->
+	</sru:records>
+	<sru:nextRecordPosition>11</sru:nextRecordPosition>
+	<sru:echoedSearchRetrieveRequest>
+		<sru:query>c.product-area=="officielepublicaties" and (w.organisatietype=="staten generaal" and ( w.documentstatus=="Opgemaakt" or w.documentstatus=="Opgemaakt na onopgemaakt" or dt.type=="Bijlage" )) or ( w.publicatienaam=="Staatsblad" ) and dt.date&gt;="2024-03-25" and dt.modified&gt;="2024-03-25"</sru:query>
+		<sru:startRecord>1</sru:startRecord>
+		<sru:maximumRecords>10</sru:maximumRecords>
+		<sru:recordXMLEscaping>xml</sru:recordXMLEscaping>
+		<sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+	</sru:echoedSearchRetrieveRequest>
+	<sru:resultCountPrecision>info:srw/vocabulary/resultCountPrecision/1/estimate</sru:resultCountPrecision>
+</sru:searchRetrieveResponse>

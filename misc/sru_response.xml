@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sru:searchRetrieveResponse xmlns:overheidwetgeving="http://standaarden.overheid.nl/wetgeving/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cd="http://standaarden.overheid.nl/cup/data" xmlns:sru="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:gzd="http://standaarden.overheid.nl/sru" xmlns:diag="http://docs.oasis-open.org/ns/search-ws/diagnostic" xmlns:facet="http://docs.oasis-open.org/ns/search-ws/facetedResults" xmlns:c="http://standaarden.overheid.nl/collectie/">
+	<sru:version>2.0</sru:version>
+	<sru:numberOfRecords>300</sru:numberOfRecords>
+	<sru:records>
+		<sru:record>
+			<sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+			<sru:recordPacking>xml</sru:recordPacking>
+			<sru:recordData>
+				<gzd:gzd>
+					<gzd:originalData>
+						<overheidwetgeving:meta>
+							<overheidwetgeving:owmskern>
+								<dcterms:identifier>kst-29684-270</dcterms:identifier>
+								<dcterms:title>Waddenzeebeleid; Motie; Motie van het lid Kostic over een plan van aanpak om het aantal lozingen in de Waddenzee terug te dringen tot nul</dcterms:title>
+								<dcterms:language>nl</dcterms:language>
+								<dcterms:type scheme="OVERHEIDop.Parlementair">Kamerstuk</dcterms:type>
+								<dcterms:creator scheme="OVERHEID.StatenGeneraal">Tweede Kamer der Staten-Generaal</dcterms:creator>
+								<dcterms:modified>2024-03-27</dcterms:modified>
+							</overheidwetgeving:owmskern>
+							<overheidwetgeving:owmsmantel>
+								<dcterms:available>2024-03-27</dcterms:available>
+								<dcterms:date>2024-03-26</dcterms:date>
+								<dcterms:hasVersion resourceIdentifier="https://zoek.officielebekendmakingen.nl/kst-29684-270.html">1</dcterms:hasVersion>
+								<dcterms:issued>2024-03-26</dcterms:issued>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Economie | Overige economische sectoren</dcterms:subject>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Natuur en milieu | Energie</dcterms:subject>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Natuur en milieu | Natuur- en landschapsbeheer</dcterms:subject>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Ruimte en infrastructuur | Waterkeringen en waterbeheer</dcterms:subject>
+							</overheidwetgeving:owmsmantel>
+							<overheidwetgeving:tpmeta>
+								<c:product-area>officielepublicaties</c:product-area>
+								<c:content-area>officielepublicaties/kst/29684</c:content-area>
+								<overheidwetgeving:documentstatus>Opgemaakt na onopgemaakt</overheidwetgeving:documentstatus>
+								<overheidwetgeving:documenttitel>Motie van het lid Kostic over een plan van aanpak om het aantal lozingen in de Waddenzee terug te dringen tot nul</overheidwetgeving:documenttitel>
+								<overheidwetgeving:dossiertitel>Waddenzeebeleid</overheidwetgeving:dossiertitel>
+								<overheidwetgeving:indiener>I. Kostic</overheidwetgeving:indiener>
+								<overheidwetgeving:ondernummer>270</overheidwetgeving:ondernummer>
+								<overheidwetgeving:organisatietype scheme="OVERHEID.Organisatietype">staten generaal</overheidwetgeving:organisatietype>
+								<overheidwetgeving:publicatienaam>Kamerstuk</overheidwetgeving:publicatienaam>
+								<overheidwetgeving:vergaderjaar>2023-2024</overheidwetgeving:vergaderjaar>
+								<overheidwetgeving:dossiernummer>29684</overheidwetgeving:dossiernummer>
+								<overheidwetgeving:subrubriek scheme="OVERHEIDop.KamerstukTypen">Motie</overheidwetgeving:subrubriek>
+								<cd:datumTijdstipWijzigingWork>2024-03-27T13:01:38.5806814+01:00</cd:datumTijdstipWijzigingWork>
+								<cd:datumTijdstipWijzigingExpression>2024-03-27T13:01:38.5806814+01:00</cd:datumTijdstipWijzigingExpression>
+							</overheidwetgeving:tpmeta>
+						</overheidwetgeving:meta>
+					</gzd:originalData>
+					<gzd:enrichedData>
+						<gzd:url>https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/xml/kst-29684-270.xml</gzd:url>
+						<gzd:preferredUrl>https://zoek.officielebekendmakingen.nl/kst-29684-270.html</gzd:preferredUrl>
+						<gzd:itemUrl manifestation="html">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/html/kst-29684-270.html</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/metadata/metadata.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadataowms">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/metadataowms/metadata_owms.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="odt">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/odt/kst-29684-270.odt</gzd:itemUrl>
+						<gzd:itemUrl manifestation="pdf">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/pdf/kst-29684-270.pdf</gzd:itemUrl>
+						<gzd:itemUrl manifestation="xml">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/xml/kst-29684-270.xml</gzd:itemUrl>
+						<gzd:timestamp>2024-03-27T13:01:54.354874+01:00</gzd:timestamp>
+					</gzd:enrichedData>
+				</gzd:gzd>
+			</sru:recordData>
+			<sru:recordPosition>1</sru:recordPosition>
+		</sru:record>
+		<sru:record>
+			<sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+			<sru:recordPacking>xml</sru:recordPacking>
+			<sru:recordData>
+				<gzd:gzd>
+					<gzd:originalData>
+						<overheidwetgeving:meta>
+							<overheidwetgeving:owmskern>
+								<dcterms:identifier>blg-1134974</dcterms:identifier>
+								<dcterms:title>Beslisnota bij Afschrift van de brief van de NZa over overstapperiode 2023-2024</dcterms:title>
+								<dcterms:language>nl</dcterms:language>
+								<dcterms:type scheme="OVERHEIDop.Parlementair">Bijlage</dcterms:type>
+								<dcterms:creator scheme="OVERHEID.StatenGeneraal">Tweede Kamer der Staten-Generaal</dcterms:creator>
+								<dcterms:modified>2024-03-26</dcterms:modified>
+							</overheidwetgeving:owmskern>
+							<overheidwetgeving:owmsmantel>
+								<dcterms:available>2024-03-25</dcterms:available>
+								<dcterms:date>2024-03-25</dcterms:date>
+								<dcterms:hasVersion resourceIdentifier="https://zoek.officielebekendmakingen.nl/blg-1134974.html">1</dcterms:hasVersion>
+							</overheidwetgeving:owmsmantel>
+							<overheidwetgeving:tpmeta>
+								<c:product-area>officielepublicaties</c:product-area>
+								<c:content-area>officielepublicaties/blg/onopgemaakt</c:content-area>
+								<overheidwetgeving:documentstatus>Onopgemaakt</overheidwetgeving:documentstatus>
+								<overheidwetgeving:hoofddocument>kst-29689-1241</overheidwetgeving:hoofddocument>
+								<overheidwetgeving:ondernummer>1241</overheidwetgeving:ondernummer>
+								<overheidwetgeving:organisatietype scheme="OVERHEID.Organisatietype">staten generaal</overheidwetgeving:organisatietype>
+								<overheidwetgeving:publicatienaam>Kamerstuk</overheidwetgeving:publicatienaam>
+								<overheidwetgeving:vergaderjaar>2023-2024</overheidwetgeving:vergaderjaar>
+								<overheidwetgeving:dossiernummer>29689</overheidwetgeving:dossiernummer>
+								<cd:datumTijdstipWijzigingWork>2024-03-26T11:34:56.9692513+01:00</cd:datumTijdstipWijzigingWork>
+								<cd:datumTijdstipWijzigingExpression>2024-03-26T11:34:56.9692513+01:00</cd:datumTijdstipWijzigingExpression>
+							</overheidwetgeving:tpmeta>
+						</overheidwetgeving:meta>
+					</gzd:originalData>
+					<gzd:enrichedData>
+						<gzd:url>https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1134974/1/pdf/blg-1134974.pdf</gzd:url>
+						<gzd:preferredUrl>https://zoek.officielebekendmakingen.nl/blg-1134974.html</gzd:preferredUrl>
+						<gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1134974/1/metadata/metadata.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadataowms">https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1134974/1/metadataowms/metadata_owms.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="pdf">https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1134974/1/pdf/blg-1134974.pdf</gzd:itemUrl>
+						<gzd:timestamp>2024-03-26T11:35:05.316903+01:00</gzd:timestamp>
+					</gzd:enrichedData>
+				</gzd:gzd>
+			</sru:recordData>
+			<sru:recordPosition>2</sru:recordPosition>
+		</sru:record>
+		<sru:record>
+			<sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+			<sru:recordPacking>xml</sru:recordPacking>
+			<sru:recordData>
+				<gzd:gzd>
+					<gzd:originalData>
+						<overheidwetgeving:meta>
+							<overheidwetgeving:owmskern>
+								<dcterms:identifier>ah-tk-20232024-1311</dcterms:identifier>
+								<dcterms:title>Antwoord op vragen van het lid Van Oostenbruggen over de blootstelling van werknemers aan kerosinemotoremissie op Schiphol</dcterms:title>
+								<dcterms:language>nl</dcterms:language>
+								<dcterms:type scheme="OVERHEIDop.Parlementair">Aanhangsel van de Handelingen</dcterms:type>
+								<dcterms:creator scheme="OVERHEID.StatenGeneraal">Tweede Kamer der Staten-Generaal</dcterms:creator>
+								<dcterms:modified>2024-03-26</dcterms:modified>
+							</overheidwetgeving:owmskern>
+							<overheidwetgeving:owmsmantel>
+								<dcterms:available>2024-03-25</dcterms:available>
+								<dcterms:date>2024-03-25</dcterms:date>
+								<dcterms:hasVersion resourceIdentifier="https://zoek.officielebekendmakingen.nl/ah-tk-20232024-1311.html">1</dcterms:hasVersion>
+								<dcterms:issued>2024-03-25</dcterms:issued>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Verkeer | Luchtvaart</dcterms:subject>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Werk | Arbeidsomstandigheden</dcterms:subject>
+							</overheidwetgeving:owmsmantel>
+							<overheidwetgeving:tpmeta>
+								<c:product-area>officielepublicaties</c:product-area>
+								<c:content-area>officielepublicaties/ah-tk/20232024</c:content-area>
+								<overheidwetgeving:aanhangselnummer>1311</overheidwetgeving:aanhangselnummer>
+								<overheidwetgeving:datumOntvangst>2024-03-25</overheidwetgeving:datumOntvangst>
+								<overheidwetgeving:documentstatus>Opgemaakt na onopgemaakt</overheidwetgeving:documentstatus>
+								<overheidwetgeving:indiener>T. van Oostenbruggen</overheidwetgeving:indiener>
+								<overheidwetgeving:ontvanger>C.E.G. van Gennip</overheidwetgeving:ontvanger>
+								<overheidwetgeving:organisatietype scheme="OVERHEID.Organisatietype">staten generaal</overheidwetgeving:organisatietype>
+								<overheidwetgeving:publicatienaam>Kamervragen (Aanhangsel)</overheidwetgeving:publicatienaam>
+								<overheidwetgeving:vergaderjaar>2023-2024</overheidwetgeving:vergaderjaar>
+								<overheidwetgeving:vraagnummer>2024Z01491</overheidwetgeving:vraagnummer>
+								<overheidwetgeving:subrubriek scheme="OVERHEIDop.AanhangselTypen">Antwoord</overheidwetgeving:subrubriek>
+								<cd:datumTijdstipWijzigingWork>2024-03-26T09:41:07.9051431+01:00</cd:datumTijdstipWijzigingWork>
+								<cd:datumTijdstipWijzigingExpression>2024-03-26T09:41:07.9051431+01:00</cd:datumTijdstipWijzigingExpression>
+							</overheidwetgeving:tpmeta>
+						</overheidwetgeving:meta>
+					</gzd:originalData>
+					<gzd:enrichedData>
+						<gzd:url>https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1311/1/xml/ah-tk-20232024-1311.xml</gzd:url>
+						<gzd:preferredUrl>https://zoek.officielebekendmakingen.nl/ah-tk-20232024-1311.html</gzd:preferredUrl>
+						<gzd:itemUrl manifestation="html">https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1311/1/html/ah-tk-20232024-1311.html</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1311/1/metadata/metadata.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadataowms">https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1311/1/metadataowms/metadata_owms.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="odt">https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1311/1/odt/ah-tk-20232024-1311.odt</gzd:itemUrl>
+						<gzd:itemUrl manifestation="pdf">https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1311/1/pdf/ah-tk-20232024-1311.pdf</gzd:itemUrl>
+						<gzd:itemUrl manifestation="xml">https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1311/1/xml/ah-tk-20232024-1311.xml</gzd:itemUrl>
+						<gzd:timestamp>2024-03-26T09:41:19.596862+01:00</gzd:timestamp>
+					</gzd:enrichedData>
+				</gzd:gzd>
+			</sru:recordData>
+			<sru:recordPosition>3</sru:recordPosition>
+		</sru:record>
+		<sru:record>
+			<sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+			<sru:recordPacking>xml</sru:recordPacking>
+			<sru:recordData>
+				<gzd:gzd>
+					<gzd:originalData>
+						<overheidwetgeving:meta>
+							<overheidwetgeving:owmskern>
+								<dcterms:identifier>kst-19637-3220</dcterms:identifier>
+								<dcterms:title>Vreemdelingenbeleid; Motie; Motie van het lid Keijzer over tijdig de Nederlandse topprioriteiten inzake asiel kenbaar maken voor het programma van de nieuwe Europese Commissie</dcterms:title>
+								<dcterms:language>nl</dcterms:language>
+								<dcterms:type scheme="OVERHEIDop.Parlementair">Kamerstuk</dcterms:type>
+								<dcterms:creator scheme="OVERHEID.StatenGeneraal">Tweede Kamer der Staten-Generaal</dcterms:creator>
+								<dcterms:modified>2024-03-27</dcterms:modified>
+							</overheidwetgeving:owmskern>
+							<overheidwetgeving:owmsmantel>
+								<dcterms:available>2024-03-27</dcterms:available>
+								<dcterms:date>2024-03-26</dcterms:date>
+								<dcterms:hasVersion resourceIdentifier="https://zoek.officielebekendmakingen.nl/kst-19637-3220.html">1</dcterms:hasVersion>
+								<dcterms:issued>2024-03-26</dcterms:issued>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Migratie en integratie | Organisatie en beleid</dcterms:subject>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Migratie en integratie | Immigratie</dcterms:subject>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Recht | Staatsrecht</dcterms:subject>
+							</overheidwetgeving:owmsmantel>
+							<overheidwetgeving:tpmeta>
+								<c:product-area>officielepublicaties</c:product-area>
+								<c:content-area>officielepublicaties/kst/19637</c:content-area>
+								<overheidwetgeving:documentstatus>Opgemaakt na onopgemaakt</overheidwetgeving:documentstatus>
+								<overheidwetgeving:documenttitel>Motie van het lid Keijzer over tijdig de Nederlandse topprioriteiten inzake asiel kenbaar maken voor het programma van de nieuwe Europese Commissie</overheidwetgeving:documenttitel>
+								<overheidwetgeving:dossiertitel>Vreemdelingenbeleid</overheidwetgeving:dossiertitel>
+								<overheidwetgeving:indiener>M.C.G. Keijzer</overheidwetgeving:indiener>
+								<overheidwetgeving:ondernummer>3220</overheidwetgeving:ondernummer>
+								<overheidwetgeving:organisatietype scheme="OVERHEID.Organisatietype">staten generaal</overheidwetgeving:organisatietype>
+								<overheidwetgeving:publicatienaam>Kamerstuk</overheidwetgeving:publicatienaam>
+								<overheidwetgeving:vergaderjaar>2023-2024</overheidwetgeving:vergaderjaar>
+								<overheidwetgeving:dossiernummer>19637</overheidwetgeving:dossiernummer>
+								<overheidwetgeving:subrubriek scheme="OVERHEIDop.KamerstukTypen">Motie</overheidwetgeving:subrubriek>
+								<cd:datumTijdstipWijzigingWork>2024-03-27T11:29:29.2430822+01:00</cd:datumTijdstipWijzigingWork>
+								<cd:datumTijdstipWijzigingExpression>2024-03-27T11:29:29.2430822+01:00</cd:datumTijdstipWijzigingExpression>
+							</overheidwetgeving:tpmeta>
+						</overheidwetgeving:meta>
+					</gzd:originalData>
+					<gzd:enrichedData>
+						<gzd:url>https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3220/1/xml/kst-19637-3220.xml</gzd:url>
+						<gzd:preferredUrl>https://zoek.officielebekendmakingen.nl/kst-19637-3220.html</gzd:preferredUrl>
+						<gzd:itemUrl manifestation="html">https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3220/1/html/kst-19637-3220.html</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3220/1/metadata/metadata.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadataowms">https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3220/1/metadataowms/metadata_owms.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="odt">https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3220/1/odt/kst-19637-3220.odt</gzd:itemUrl>
+						<gzd:itemUrl manifestation="pdf">https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3220/1/pdf/kst-19637-3220.pdf</gzd:itemUrl>
+						<gzd:itemUrl manifestation="xml">https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3220/1/xml/kst-19637-3220.xml</gzd:itemUrl>
+						<gzd:timestamp>2024-03-27T11:29:57.305567+01:00</gzd:timestamp>
+					</gzd:enrichedData>
+				</gzd:gzd>
+			</sru:recordData>
+			<sru:recordPosition>4</sru:recordPosition>
+		</sru:record>
+		<sru:record>
+			<sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+			<sru:recordPacking>xml</sru:recordPacking>
+			<sru:recordData>
+				<gzd:gzd>
+					<gzd:originalData>
+						<overheidwetgeving:meta>
+							<overheidwetgeving:owmskern>
+								<dcterms:identifier>blg-1134917</dcterms:identifier>
+								<dcterms:title>Beslisnota bij Woo-besluit inzake het voorgenomen militair radarstation in Herwijnen </dcterms:title>
+								<dcterms:language>nl</dcterms:language>
+								<dcterms:type scheme="OVERHEIDop.Parlementair">Bijlage</dcterms:type>
+								<dcterms:creator scheme="OVERHEID.StatenGeneraal">Tweede Kamer der Staten-Generaal</dcterms:creator>
+								<dcterms:modified>2024-03-26</dcterms:modified>
+							</overheidwetgeving:owmskern>
+							<overheidwetgeving:owmsmantel>
+								<dcterms:available>2024-03-25</dcterms:available>
+								<dcterms:date>2024-03-25</dcterms:date>
+								<dcterms:hasVersion resourceIdentifier="https://zoek.officielebekendmakingen.nl/blg-1134917.html">1</dcterms:hasVersion>
+							</overheidwetgeving:owmsmantel>
+							<overheidwetgeving:tpmeta>
+								<c:product-area>officielepublicaties</c:product-area>
+								<c:content-area>officielepublicaties/blg/onopgemaakt</c:content-area>
+								<overheidwetgeving:documentstatus>Onopgemaakt</overheidwetgeving:documentstatus>
+								<overheidwetgeving:hoofddocument>kst-31936-1147</overheidwetgeving:hoofddocument>
+								<overheidwetgeving:ondernummer>1147</overheidwetgeving:ondernummer>
+								<overheidwetgeving:organisatietype scheme="OVERHEID.Organisatietype">staten generaal</overheidwetgeving:organisatietype>
+								<overheidwetgeving:publicatienaam>Kamerstuk</overheidwetgeving:publicatienaam>
+								<overheidwetgeving:vergaderjaar>2023-2024</overheidwetgeving:vergaderjaar>
+								<overheidwetgeving:dossiernummer>31936</overheidwetgeving:dossiernummer>
+								<cd:datumTijdstipWijzigingWork>2024-03-26T11:19:15.297273+01:00</cd:datumTijdstipWijzigingWork>
+								<cd:datumTijdstipWijzigingExpression>2024-03-26T11:19:15.297273+01:00</cd:datumTijdstipWijzigingExpression>
+							</overheidwetgeving:tpmeta>
+						</overheidwetgeving:meta>
+					</gzd:originalData>
+					<gzd:enrichedData>
+						<gzd:url>https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1134917/1/pdf/blg-1134917.pdf</gzd:url>
+						<gzd:preferredUrl>https://zoek.officielebekendmakingen.nl/blg-1134917.html</gzd:preferredUrl>
+						<gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1134917/1/metadata/metadata.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadataowms">https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1134917/1/metadataowms/metadata_owms.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="pdf">https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1134917/1/pdf/blg-1134917.pdf</gzd:itemUrl>
+						<gzd:timestamp>2024-03-26T11:19:19.225126+01:00</gzd:timestamp>
+					</gzd:enrichedData>
+				</gzd:gzd>
+			</sru:recordData>
+			<sru:recordPosition>5</sru:recordPosition>
+		</sru:record>
+		<sru:record>
+			<sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+			<sru:recordPacking>xml</sru:recordPacking>
+			<sru:recordData>
+				<gzd:gzd>
+					<gzd:originalData>
+						<overheidwetgeving:meta>
+							<overheidwetgeving:owmskern>
+								<dcterms:identifier>kst-29684-264</dcterms:identifier>
+								<dcterms:title>Waddenzeebeleid; Motie; Motie van het lid Tjeerd de Groot c.s. over onderzoeken wat nodig is om de Waddenveren aan te kunnen merken als openbaar vervoer</dcterms:title>
+								<dcterms:language>nl</dcterms:language>
+								<dcterms:type scheme="OVERHEIDop.Parlementair">Kamerstuk</dcterms:type>
+								<dcterms:creator scheme="OVERHEID.StatenGeneraal">Tweede Kamer der Staten-Generaal</dcterms:creator>
+								<dcterms:modified>2024-03-27</dcterms:modified>
+							</overheidwetgeving:owmskern>
+							<overheidwetgeving:owmsmantel>
+								<dcterms:available>2024-03-27</dcterms:available>
+								<dcterms:date>2024-03-26</dcterms:date>
+								<dcterms:hasVersion resourceIdentifier="https://zoek.officielebekendmakingen.nl/kst-29684-264.html">1</dcterms:hasVersion>
+								<dcterms:issued>2024-03-26</dcterms:issued>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Economie | Overige economische sectoren</dcterms:subject>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Natuur en milieu | Energie</dcterms:subject>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Natuur en milieu | Natuur- en landschapsbeheer</dcterms:subject>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Ruimte en infrastructuur | Waterkeringen en waterbeheer</dcterms:subject>
+							</overheidwetgeving:owmsmantel>
+							<overheidwetgeving:tpmeta>
+								<c:product-area>officielepublicaties</c:product-area>
+								<c:content-area>officielepublicaties/kst/29684</c:content-area>
+								<overheidwetgeving:documentstatus>Opgemaakt na onopgemaakt</overheidwetgeving:documentstatus>
+								<overheidwetgeving:documenttitel>Motie van het lid Tjeerd de Groot c.s. over onderzoeken wat nodig is om de Waddenveren aan te kunnen merken als openbaar vervoer</overheidwetgeving:documenttitel>
+								<overheidwetgeving:dossiertitel>Waddenzeebeleid</overheidwetgeving:dossiertitel>
+								<overheidwetgeving:indiener>T.C. (Tjeerd) de Groot</overheidwetgeving:indiener>
+								<overheidwetgeving:indiener>E.C. Vedder</overheidwetgeving:indiener>
+								<overheidwetgeving:indiener>H.E. de Hoop</overheidwetgeving:indiener>
+								<overheidwetgeving:ondernummer>264</overheidwetgeving:ondernummer>
+								<overheidwetgeving:organisatietype scheme="OVERHEID.Organisatietype">staten generaal</overheidwetgeving:organisatietype>
+								<overheidwetgeving:publicatienaam>Kamerstuk</overheidwetgeving:publicatienaam>
+								<overheidwetgeving:vergaderjaar>2023-2024</overheidwetgeving:vergaderjaar>
+								<overheidwetgeving:dossiernummer>29684</overheidwetgeving:dossiernummer>
+								<overheidwetgeving:subrubriek scheme="OVERHEIDop.KamerstukTypen">Motie</overheidwetgeving:subrubriek>
+								<cd:datumTijdstipWijzigingWork>2024-03-27T11:49:09.0964334+01:00</cd:datumTijdstipWijzigingWork>
+								<cd:datumTijdstipWijzigingExpression>2024-03-27T11:49:09.0964334+01:00</cd:datumTijdstipWijzigingExpression>
+							</overheidwetgeving:tpmeta>
+						</overheidwetgeving:meta>
+					</gzd:originalData>
+					<gzd:enrichedData>
+						<gzd:url>https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-264/1/xml/kst-29684-264.xml</gzd:url>
+						<gzd:preferredUrl>https://zoek.officielebekendmakingen.nl/kst-29684-264.html</gzd:preferredUrl>
+						<gzd:itemUrl manifestation="html">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-264/1/html/kst-29684-264.html</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-264/1/metadata/metadata.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadataowms">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-264/1/metadataowms/metadata_owms.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="odt">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-264/1/odt/kst-29684-264.odt</gzd:itemUrl>
+						<gzd:itemUrl manifestation="pdf">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-264/1/pdf/kst-29684-264.pdf</gzd:itemUrl>
+						<gzd:itemUrl manifestation="xml">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-264/1/xml/kst-29684-264.xml</gzd:itemUrl>
+						<gzd:timestamp>2024-03-27T11:49:43.031664+01:00</gzd:timestamp>
+					</gzd:enrichedData>
+				</gzd:gzd>
+			</sru:recordData>
+			<sru:recordPosition>6</sru:recordPosition>
+		</sru:record>
+		<sru:record>
+			<sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+			<sru:recordPacking>xml</sru:recordPacking>
+			<sru:recordData>
+				<gzd:gzd>
+					<gzd:originalData>
+						<overheidwetgeving:meta>
+							<overheidwetgeving:owmskern>
+								<dcterms:identifier>ah-tk-20232024-1324</dcterms:identifier>
+								<dcterms:title>Antwoord op vragen van de leden Becker en Ellian over het bericht 'Aanpak stalking schiet vijf jaar na moord op Hümeyra nog altijd te kort'</dcterms:title>
+								<dcterms:language>nl</dcterms:language>
+								<dcterms:type scheme="OVERHEIDop.Parlementair">Aanhangsel van de Handelingen</dcterms:type>
+								<dcterms:creator scheme="OVERHEID.StatenGeneraal">Tweede Kamer der Staten-Generaal</dcterms:creator>
+								<dcterms:modified>2024-03-27</dcterms:modified>
+							</overheidwetgeving:owmskern>
+							<overheidwetgeving:owmsmantel>
+								<dcterms:available>2024-03-26</dcterms:available>
+								<dcterms:date>2024-03-26</dcterms:date>
+								<dcterms:hasVersion resourceIdentifier="https://zoek.officielebekendmakingen.nl/ah-tk-20232024-1324.html">1</dcterms:hasVersion>
+								<dcterms:issued>2024-03-26</dcterms:issued>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Openbare orde en veiligheid | Criminaliteit</dcterms:subject>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Openbare orde en veiligheid | Politie, brandweer en hulpdiensten</dcterms:subject>
+							</overheidwetgeving:owmsmantel>
+							<overheidwetgeving:tpmeta>
+								<c:product-area>officielepublicaties</c:product-area>
+								<c:content-area>officielepublicaties/ah-tk/20232024</c:content-area>
+								<overheidwetgeving:aanhangselnummer>1324</overheidwetgeving:aanhangselnummer>
+								<overheidwetgeving:datumOntvangst>2024-03-26</overheidwetgeving:datumOntvangst>
+								<overheidwetgeving:documentstatus>Opgemaakt na onopgemaakt</overheidwetgeving:documentstatus>
+								<overheidwetgeving:indiener>B. Becker</overheidwetgeving:indiener>
+								<overheidwetgeving:indiener>U. Ellian</overheidwetgeving:indiener>
+								<overheidwetgeving:ontvanger>F.M. Weerwind</overheidwetgeving:ontvanger>
+								<overheidwetgeving:organisatietype scheme="OVERHEID.Organisatietype">staten generaal</overheidwetgeving:organisatietype>
+								<overheidwetgeving:publicatienaam>Kamervragen (Aanhangsel)</overheidwetgeving:publicatienaam>
+								<overheidwetgeving:vergaderjaar>2023-2024</overheidwetgeving:vergaderjaar>
+								<overheidwetgeving:vraagnummer>2024Z02444</overheidwetgeving:vraagnummer>
+								<overheidwetgeving:subrubriek scheme="OVERHEIDop.AanhangselTypen">Antwoord</overheidwetgeving:subrubriek>
+								<cd:datumTijdstipWijzigingWork>2024-03-27T09:20:36.4228867+01:00</cd:datumTijdstipWijzigingWork>
+								<cd:datumTijdstipWijzigingExpression>2024-03-27T09:20:36.4228867+01:00</cd:datumTijdstipWijzigingExpression>
+							</overheidwetgeving:tpmeta>
+						</overheidwetgeving:meta>
+					</gzd:originalData>
+					<gzd:enrichedData>
+						<gzd:url>https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1324/1/xml/ah-tk-20232024-1324.xml</gzd:url>
+						<gzd:preferredUrl>https://zoek.officielebekendmakingen.nl/ah-tk-20232024-1324.html</gzd:preferredUrl>
+						<gzd:itemUrl manifestation="html">https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1324/1/html/ah-tk-20232024-1324.html</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1324/1/metadata/metadata.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadataowms">https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1324/1/metadataowms/metadata_owms.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="odt">https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1324/1/odt/ah-tk-20232024-1324.odt</gzd:itemUrl>
+						<gzd:itemUrl manifestation="pdf">https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1324/1/pdf/ah-tk-20232024-1324.pdf</gzd:itemUrl>
+						<gzd:itemUrl manifestation="xml">https://repository.overheid.nl/frbr/officielepublicaties/ah-tk/20232024/ah-tk-20232024-1324/1/xml/ah-tk-20232024-1324.xml</gzd:itemUrl>
+						<gzd:timestamp>2024-03-27T09:20:51.437224+01:00</gzd:timestamp>
+					</gzd:enrichedData>
+				</gzd:gzd>
+			</sru:recordData>
+			<sru:recordPosition>7</sru:recordPosition>
+		</sru:record>
+		<sru:record>
+			<sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+			<sru:recordPacking>xml</sru:recordPacking>
+			<sru:recordData>
+				<gzd:gzd>
+					<gzd:originalData>
+						<overheidwetgeving:meta>
+							<overheidwetgeving:owmskern>
+								<dcterms:identifier>blg-1134968</dcterms:identifier>
+								<dcterms:title>Verkenning programma-aanpak Small Modular Reactors</dcterms:title>
+								<dcterms:language>nl</dcterms:language>
+								<dcterms:type scheme="OVERHEIDop.Parlementair">Bijlage</dcterms:type>
+								<dcterms:creator scheme="OVERHEID.StatenGeneraal">Tweede Kamer der Staten-Generaal</dcterms:creator>
+								<dcterms:modified>2024-03-26</dcterms:modified>
+							</overheidwetgeving:owmskern>
+							<overheidwetgeving:owmsmantel>
+								<dcterms:available>2024-03-25</dcterms:available>
+								<dcterms:date>2024-03-25</dcterms:date>
+								<dcterms:hasVersion resourceIdentifier="https://zoek.officielebekendmakingen.nl/blg-1134968.html">1</dcterms:hasVersion>
+							</overheidwetgeving:owmsmantel>
+							<overheidwetgeving:tpmeta>
+								<c:product-area>officielepublicaties</c:product-area>
+								<c:content-area>officielepublicaties/blg/onopgemaakt</c:content-area>
+								<overheidwetgeving:documentstatus>Onopgemaakt</overheidwetgeving:documentstatus>
+								<overheidwetgeving:hoofddocument>kst-32645-123</overheidwetgeving:hoofddocument>
+								<overheidwetgeving:ondernummer>123</overheidwetgeving:ondernummer>
+								<overheidwetgeving:organisatietype scheme="OVERHEID.Organisatietype">staten generaal</overheidwetgeving:organisatietype>
+								<overheidwetgeving:publicatienaam>Kamerstuk</overheidwetgeving:publicatienaam>
+								<overheidwetgeving:vergaderjaar>2023-2024</overheidwetgeving:vergaderjaar>
+								<overheidwetgeving:dossiernummer>32645</overheidwetgeving:dossiernummer>
+								<cd:datumTijdstipWijzigingWork>2024-03-26T11:53:09.7472773+01:00</cd:datumTijdstipWijzigingWork>
+								<cd:datumTijdstipWijzigingExpression>2024-03-26T11:53:09.7472773+01:00</cd:datumTijdstipWijzigingExpression>
+							</overheidwetgeving:tpmeta>
+						</overheidwetgeving:meta>
+					</gzd:originalData>
+					<gzd:enrichedData>
+						<gzd:url>https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1134968/1/pdf/blg-1134968.pdf</gzd:url>
+						<gzd:preferredUrl>https://zoek.officielebekendmakingen.nl/blg-1134968.html</gzd:preferredUrl>
+						<gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1134968/1/metadata/metadata.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadataowms">https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1134968/1/metadataowms/metadata_owms.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="pdf">https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1134968/1/pdf/blg-1134968.pdf</gzd:itemUrl>
+						<gzd:timestamp>2024-03-26T11:53:25.919691+01:00</gzd:timestamp>
+					</gzd:enrichedData>
+				</gzd:gzd>
+			</sru:recordData>
+			<sru:recordPosition>8</sru:recordPosition>
+		</sru:record>
+		<sru:record>
+			<sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+			<sru:recordPacking>xml</sru:recordPacking>
+			<sru:recordData>
+				<gzd:gzd>
+					<gzd:originalData>
+						<overheidwetgeving:meta>
+							<overheidwetgeving:owmskern>
+								<dcterms:identifier>blg-1135427</dcterms:identifier>
+								<dcterms:title>Beslisnota bij Kamerbrief Voorhang ontwerpbesluit wijziging Besluit beheer politie in verband met de inrichting van de Landelijke meldkamer samenwerking</dcterms:title>
+								<dcterms:language>nl</dcterms:language>
+								<dcterms:type scheme="OVERHEIDop.Parlementair">Bijlage</dcterms:type>
+								<dcterms:creator scheme="OVERHEID.StatenGeneraal">Tweede Kamer der Staten-Generaal</dcterms:creator>
+								<dcterms:modified>2024-03-27</dcterms:modified>
+							</overheidwetgeving:owmskern>
+							<overheidwetgeving:owmsmantel>
+								<dcterms:available>2024-03-27</dcterms:available>
+								<dcterms:date>2024-03-27</dcterms:date>
+								<dcterms:hasVersion resourceIdentifier="https://zoek.officielebekendmakingen.nl/blg-1135427.html">1</dcterms:hasVersion>
+							</overheidwetgeving:owmsmantel>
+							<overheidwetgeving:tpmeta>
+								<c:product-area>officielepublicaties</c:product-area>
+								<c:content-area>officielepublicaties/blg/onopgemaakt</c:content-area>
+								<overheidwetgeving:documentstatus>Onopgemaakt</overheidwetgeving:documentstatus>
+								<overheidwetgeving:ondernummer>1214</overheidwetgeving:ondernummer>
+								<overheidwetgeving:organisatietype scheme="OVERHEID.Organisatietype">staten generaal</overheidwetgeving:organisatietype>
+								<overheidwetgeving:publicatienaam>Kamerstuk</overheidwetgeving:publicatienaam>
+								<overheidwetgeving:vergaderjaar>2023-2024</overheidwetgeving:vergaderjaar>
+								<overheidwetgeving:dossiernummer>29628</overheidwetgeving:dossiernummer>
+								<cd:datumTijdstipWijzigingWork>2024-03-27T16:07:45.5211317+01:00</cd:datumTijdstipWijzigingWork>
+								<cd:datumTijdstipWijzigingExpression>2024-03-27T16:07:45.5211317+01:00</cd:datumTijdstipWijzigingExpression>
+							</overheidwetgeving:tpmeta>
+						</overheidwetgeving:meta>
+					</gzd:originalData>
+					<gzd:enrichedData>
+						<gzd:url>https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1135427/1/pdf/blg-1135427.pdf</gzd:url>
+						<gzd:preferredUrl>https://zoek.officielebekendmakingen.nl/blg-1135427.html</gzd:preferredUrl>
+						<gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1135427/1/metadata/metadata.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadataowms">https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1135427/1/metadataowms/metadata_owms.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="pdf">https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-1135427/1/pdf/blg-1135427.pdf</gzd:itemUrl>
+						<gzd:timestamp>2024-03-27T16:07:57.901517+01:00</gzd:timestamp>
+					</gzd:enrichedData>
+				</gzd:gzd>
+			</sru:recordData>
+			<sru:recordPosition>9</sru:recordPosition>
+		</sru:record>
+		<sru:record>
+			<sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+			<sru:recordPacking>xml</sru:recordPacking>
+			<sru:recordData>
+				<gzd:gzd>
+					<gzd:originalData>
+						<overheidwetgeving:meta>
+							<overheidwetgeving:owmskern>
+								<dcterms:identifier>kst-19637-3233</dcterms:identifier>
+								<dcterms:title>Vreemdelingenbeleid; Motie; Motie van het lid Van Houwelingen over het opzeggen van het Verdrag van Schengen</dcterms:title>
+								<dcterms:language>nl</dcterms:language>
+								<dcterms:type scheme="OVERHEIDop.Parlementair">Kamerstuk</dcterms:type>
+								<dcterms:creator scheme="OVERHEID.StatenGeneraal">Tweede Kamer der Staten-Generaal</dcterms:creator>
+								<dcterms:modified>2024-03-27</dcterms:modified>
+							</overheidwetgeving:owmskern>
+							<overheidwetgeving:owmsmantel>
+								<dcterms:available>2024-03-27</dcterms:available>
+								<dcterms:date>2024-03-26</dcterms:date>
+								<dcterms:hasVersion resourceIdentifier="https://zoek.officielebekendmakingen.nl/kst-19637-3233.html">1</dcterms:hasVersion>
+								<dcterms:issued>2024-03-26</dcterms:issued>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Migratie en integratie | Organisatie en beleid</dcterms:subject>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Migratie en integratie | Immigratie</dcterms:subject>
+								<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Recht | Staatsrecht</dcterms:subject>
+							</overheidwetgeving:owmsmantel>
+							<overheidwetgeving:tpmeta>
+								<c:product-area>officielepublicaties</c:product-area>
+								<c:content-area>officielepublicaties/kst/19637</c:content-area>
+								<overheidwetgeving:documentstatus>Opgemaakt na onopgemaakt</overheidwetgeving:documentstatus>
+								<overheidwetgeving:documenttitel>Motie van het lid Van Houwelingen over het opzeggen van het Verdrag van Schengen</overheidwetgeving:documenttitel>
+								<overheidwetgeving:dossiertitel>Vreemdelingenbeleid</overheidwetgeving:dossiertitel>
+								<overheidwetgeving:indiener>P. van Houwelingen</overheidwetgeving:indiener>
+								<overheidwetgeving:ondernummer>3233</overheidwetgeving:ondernummer>
+								<overheidwetgeving:organisatietype scheme="OVERHEID.Organisatietype">staten generaal</overheidwetgeving:organisatietype>
+								<overheidwetgeving:publicatienaam>Kamerstuk</overheidwetgeving:publicatienaam>
+								<overheidwetgeving:vergaderjaar>2023-2024</overheidwetgeving:vergaderjaar>
+								<overheidwetgeving:dossiernummer>19637</overheidwetgeving:dossiernummer>
+								<overheidwetgeving:subrubriek scheme="OVERHEIDop.KamerstukTypen">Motie</overheidwetgeving:subrubriek>
+								<cd:datumTijdstipWijzigingWork>2024-03-27T11:48:54.7664924+01:00</cd:datumTijdstipWijzigingWork>
+								<cd:datumTijdstipWijzigingExpression>2024-03-27T11:48:54.7664924+01:00</cd:datumTijdstipWijzigingExpression>
+							</overheidwetgeving:tpmeta>
+						</overheidwetgeving:meta>
+					</gzd:originalData>
+					<gzd:enrichedData>
+						<gzd:url>https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3233/1/xml/kst-19637-3233.xml</gzd:url>
+						<gzd:preferredUrl>https://zoek.officielebekendmakingen.nl/kst-19637-3233.html</gzd:preferredUrl>
+						<gzd:itemUrl manifestation="html">https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3233/1/html/kst-19637-3233.html</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3233/1/metadata/metadata.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="metadataowms">https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3233/1/metadataowms/metadata_owms.xml</gzd:itemUrl>
+						<gzd:itemUrl manifestation="odt">https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3233/1/odt/kst-19637-3233.odt</gzd:itemUrl>
+						<gzd:itemUrl manifestation="pdf">https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3233/1/pdf/kst-19637-3233.pdf</gzd:itemUrl>
+						<gzd:itemUrl manifestation="xml">https://repository.overheid.nl/frbr/officielepublicaties/kst/19637/kst-19637-3233/1/xml/kst-19637-3233.xml</gzd:itemUrl>
+						<gzd:timestamp>2024-03-27T11:49:32.267078+01:00</gzd:timestamp>
+					</gzd:enrichedData>
+				</gzd:gzd>
+			</sru:recordData>
+			<sru:recordPosition>10</sru:recordPosition>
+		</sru:record>
+	</sru:records>
+	<sru:nextRecordPosition>11</sru:nextRecordPosition>
+	<sru:echoedSearchRetrieveRequest>
+		<sru:query>c.product-area=="officielepublicaties" and (w.organisatietype=="staten generaal" and ( w.documentstatus=="Opgemaakt" or w.documentstatus=="Opgemaakt na onopgemaakt" or dt.type=="Bijlage" )) or ( w.publicatienaam=="Staatsblad" ) and dt.date&gt;="2024-03-25" and dt.modified&gt;="2024-03-25"</sru:query>
+		<sru:startRecord>1</sru:startRecord>
+		<sru:maximumRecords>10</sru:maximumRecords>
+		<sru:recordXMLEscaping>xml</sru:recordXMLEscaping>
+		<sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+	</sru:echoedSearchRetrieveRequest>
+	<sru:resultCountPrecision>info:srw/vocabulary/resultCountPrecision/1/estimate</sru:resultCountPrecision>
+</sru:searchRetrieveResponse>

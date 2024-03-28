@@ -1,0 +1,24 @@
+camel:
+  springboot:
+    main-run-controller: true
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+      naming:
+        # ?sessionVariables=sql_mode='NO_ENGINE_SUBSTITUTION'&jdbcCompliantTruncation=false is needed for data truncation error in MySql
+        # https://stackoverflow.com/a/44354496/3128926
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+  datasource:
+    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/maindb?sessionVariables=sql_mode='NO_ENGINE_SUBSTITUTION'&jdbcCompliantTruncation=false
+    username: root
+    password: mypass
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  # To enable SQL logging, uncomment the line below
+  # jpa:
+  #   show-sql: true
+
+springdoc:
+  api-docs:
+    path: /api-docs

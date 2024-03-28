@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata_gegevens>
+	<metadata name="OVERHEIDop.documentStatus" scheme="" content="Opgemaakt na onopgemaakt"/>
+	<metadata name="DC.title" scheme="" content="Waddenzeebeleid; Motie; Motie van het lid Kostic over een plan van aanpak om het aantal lozingen in de Waddenzee terug te dringen tot nul"/>
+	<metadata name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.3/xml/MC-OEP-Kamerstuk-Web.xml"/>
+	<metadata name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+	<metadata name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Kostic over een plan van aanpak om het aantal lozingen in de Waddenzee terug te dringen tot nul"/>
+	<metadata name="OVERHEIDop.dossiernummer" scheme="" content="29684"/>
+	<metadata name="OVERHEIDop.dossiertitel" scheme="" content="Waddenzeebeleid"/>
+	<metadata name="OVERHEIDop.indiener" scheme="" content="I. Kostic"/>
+	<metadata name="OVERHEIDop.ondernummer" scheme="" content="270"/>
+	<metadata name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+	<metadata name="OVERHEIDop.vergaderjaar" scheme="" content="2023-2024"/>
+	<metadata name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+	<metadata name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2024-03-27"/>
+	<metadata name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2024-03-26"/>
+	<metadata name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+	<metadata name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+	<metadata name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+	<metadata name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Overige economische sectoren"/>
+	<metadata name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Energie"/>
+	<metadata name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Natuur- en landschapsbeheer"/>
+	<metadata name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Ruimte en infrastructuur | Waterkeringen en waterbeheer"/>
+	<metadata name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+	<metadata name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+	<metadata name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29684-270"/>
+</metadata_gegevens>

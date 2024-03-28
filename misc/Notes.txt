@@ -1,0 +1,8 @@
+Example;
+
+https://repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&recordSchema=gzd&query=c.product-area=="officielepublicaties" and (w.organisatietype=="staten generaal" and ( w.documentstatus=="Opgemaakt" or w.documentstatus=="Opgemaakt na onopgemaakt" or dt.type=="Bijlage" )) or ( w.publicatienaam=="Staatsblad" ) and dt.date>="2024-03-27" and dt.modified>="2024-03-27"&startRecord=1
+
+Record meta;
+https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/metadata/metadata.xml
+
+docker compose up -d db

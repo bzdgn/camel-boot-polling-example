@@ -1,0 +1,92 @@
+{
+	"info": {
+		"_postman_id": "6e8e1bfd-4332-467b-a8ae-6ed6ec58649c",
+		"name": "Camel-Poller",
+		"description": "Testing the Controller of the **camel-boot-polling-example** project.\n\nThe controller has simply 2 operations;\n\n- GET: retrieval of the persisted documents\n    \n- POST: triggering of the polling process\n    \n\nAfter a trigger is done, GET operation will provide the documents.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1510878"
+	},
+	"item": [
+		{
+			"name": "Trigger POLL Defaults",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"dtDate\": \"\",\r\n    \"dtModified\": \"\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/v1/poll",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"poll"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Trigger POLL",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"dtDate\": \"2024-03-27\",\r\n    \"dtModified\": \"2024-03-27\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/v1/poll",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"poll"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetDocuments",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/v1/documents",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"documents"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

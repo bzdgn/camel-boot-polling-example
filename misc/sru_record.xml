@@ -1,0 +1,58 @@
+<sru:record>
+	<sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+	<sru:recordPacking>xml</sru:recordPacking>
+	<sru:recordData>
+		<gzd:gzd>
+			<gzd:originalData>
+				<overheidwetgeving:meta>
+					<overheidwetgeving:owmskern>
+						<dcterms:identifier>kst-29684-270</dcterms:identifier>
+						<dcterms:title>Waddenzeebeleid; Motie; Motie van het lid Kostic over een plan van aanpak om het aantal lozingen in de Waddenzee terug te dringen tot nul</dcterms:title>
+						<dcterms:language>nl</dcterms:language>
+						<dcterms:type scheme="OVERHEIDop.Parlementair">Kamerstuk</dcterms:type>
+						<dcterms:creator scheme="OVERHEID.StatenGeneraal">Tweede Kamer der Staten-Generaal</dcterms:creator>
+						<dcterms:modified>2024-03-27</dcterms:modified>
+					</overheidwetgeving:owmskern>
+					<overheidwetgeving:owmsmantel>
+						<dcterms:available>2024-03-27</dcterms:available>
+						<dcterms:date>2024-03-26</dcterms:date>
+						<dcterms:hasVersion resourceIdentifier="https://zoek.officielebekendmakingen.nl/kst-29684-270.html">1</dcterms:hasVersion>
+						<dcterms:issued>2024-03-26</dcterms:issued>
+						<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Economie | Overige economische sectoren</dcterms:subject>
+						<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Natuur en milieu | Energie</dcterms:subject>
+						<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Natuur en milieu | Natuur- en landschapsbeheer</dcterms:subject>
+						<dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Ruimte en infrastructuur | Waterkeringen en waterbeheer</dcterms:subject>
+					</overheidwetgeving:owmsmantel>
+					<overheidwetgeving:tpmeta>
+						<c:product-area>officielepublicaties</c:product-area>
+						<c:content-area>officielepublicaties/kst/29684</c:content-area>
+						<overheidwetgeving:documentstatus>Opgemaakt na onopgemaakt</overheidwetgeving:documentstatus>
+						<overheidwetgeving:documenttitel>Motie van het lid Kostic over een plan van aanpak om het aantal lozingen in de Waddenzee terug te dringen tot nul</overheidwetgeving:documenttitel>
+						<overheidwetgeving:dossiertitel>Waddenzeebeleid</overheidwetgeving:dossiertitel>
+						<overheidwetgeving:indiener>I. Kostic</overheidwetgeving:indiener>
+						<overheidwetgeving:ondernummer>270</overheidwetgeving:ondernummer>
+						<overheidwetgeving:organisatietype scheme="OVERHEID.Organisatietype">staten generaal</overheidwetgeving:organisatietype>
+						<overheidwetgeving:publicatienaam>Kamerstuk</overheidwetgeving:publicatienaam>
+						<overheidwetgeving:vergaderjaar>2023-2024</overheidwetgeving:vergaderjaar>
+						<overheidwetgeving:dossiernummer>29684</overheidwetgeving:dossiernummer>
+						<overheidwetgeving:subrubriek scheme="OVERHEIDop.KamerstukTypen">Motie</overheidwetgeving:subrubriek>
+						<cd:datumTijdstipWijzigingWork>2024-03-27T13:01:38.5806814+01:00</cd:datumTijdstipWijzigingWork>
+						<cd:datumTijdstipWijzigingExpression>2024-03-27T13:01:38.5806814+01:00</cd:datumTijdstipWijzigingExpression>
+					</overheidwetgeving:tpmeta>
+				</overheidwetgeving:meta>
+			</gzd:originalData>
+			<gzd:enrichedData>
+				<gzd:url>https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/xml/kst-29684-270.xml</gzd:url>
+				<gzd:preferredUrl>https://zoek.officielebekendmakingen.nl/kst-29684-270.html</gzd:preferredUrl>
+				<gzd:itemUrl manifestation="html">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/html/kst-29684-270.html</gzd:itemUrl>
+				<gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/metadata/metadata.xml</gzd:itemUrl>
+				<gzd:itemUrl manifestation="metadataowms">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/metadataowms/metadata_owms.xml</gzd:itemUrl>
+				<gzd:itemUrl manifestation="odt">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/odt/kst-29684-270.odt</gzd:itemUrl>
+				<gzd:itemUrl manifestation="pdf">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/pdf/kst-29684-270.pdf</gzd:itemUrl>
+				<gzd:itemUrl manifestation="xml">https://repository.overheid.nl/frbr/officielepublicaties/kst/29684/kst-29684-270/1/xml/kst-29684-270.xml</gzd:itemUrl>
+				<gzd:timestamp>2024-03-27T13:01:54.354874+01:00</gzd:timestamp>
+			</gzd:enrichedData>
+		</gzd:gzd>
+	</sru:recordData>
+	<sru:recordPosition>1</sru:recordPosition>
+</sru:record>

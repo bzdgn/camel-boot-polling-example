@@ -1,0 +1,47 @@
+version: '3'
+
+services:
+  db:
+    image: mysql
+    # NOTE: use of "mysql_native_password" is not recommended: https://dev.mysql.com/doc/refman/8.0/en/upgrading-from-previous-series.html#upgrade-caching-sha2-password
+    # (this is just an example, not intended to be a production configuration)
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: mypass
+      MYSQL_DATABASE: maindb
+    ports:
+      - 3306:3306
+    healthcheck:
+        test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+        timeout: 20s
+        retries: 10
+    networks:
+      - poller-app-net
+  
+  application:
+    image: oep-poller:latest
+    restart: always
+    environment:
+      MYSQL_HOST: db
+    ports:
+      - 8080:8080
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - poller-app-net
+
+  #use it when needed, a better alternative is heidisql
+  #adminer:
+  #  image: adminer
+  #  restart: always
+  #  ports:
+  #    - 8090:8090
+
+networks:
+  poller-app-net:
+    driver: bridge
+    external: true
+ 
+# docker network create poller-app-net
